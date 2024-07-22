@@ -1,0 +1,17 @@
+.me{
+    background-color: rgba(0, 0, 0, 0.318);
+    border-radius: 30px;
+    margin: 100px;
+    border: solid black;
+}
+
+  .body{
+    width: -50px;
+    height: 150px;
+  }
+  
+  button {
+    margin-top: -10px; 
+    background: transparent;
+  }
+  
